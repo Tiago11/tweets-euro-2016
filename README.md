@@ -26,6 +26,9 @@ The goal of this project was to collect the tweets being made during the matches
  The results can be found on:   
 
  [UEFA EURO 2016 in Tweets - Part 1 ](https://medium.com/@tiago.paez11/uefa-euro-2016-in-tweets-part-1-64a090daea18#.9zj25880u)
+
  [UEFA EURO 2016 in Tweets - Part 2](https://medium.com/@tiago.paez11/uefa-euro-2016-in-tweets-part-2-82df0887406c#.4fswrmi0d)
+
  [UEFA EURO 2016 in Tweets - Part 3](https://medium.com/@tiago.paez11/uefa-euro-2016-in-tweets-part-3-9a2554e9fbb5#.e64vpitok)
+
  [UEFA EURO 2016 in Tweets - Part 4](https://medium.com/@tiago.paez11/uefa-euro-2016-in-tweets-part-4-978911dfb306#.w46fo8ezu)
